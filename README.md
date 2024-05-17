@@ -4,7 +4,7 @@ A project dedicated to simulating phishing attacks to improve user awareness and
 ---
 
 This project consists of two main parts:
-1. An email template that offers an 80% discount on Butternut Box products and prompts users to log in.
+1. An email template that offers an 80% discount on Butternut products and prompts users to log in.
 2. A login webpage where users can log in using Google, Facebook, or email.
 ---
 ## Features
